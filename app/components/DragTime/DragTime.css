@@ -1,0 +1,15 @@
+.dragLine{
+    width: 400px;
+    height:30px;
+    border-top:solid 2px rgb(100,100,100);
+    border-bottom:solid 2px rgb(100,100,100);
+    border-left:solid 2px rgb(100,100,100);
+    border-right:solid 2px rgb(100,100,100);
+    position: relative;
+}
+.dragBtn{
+    width:20px;
+    height:30px;
+    background: rgb(199,199,199);
+    position: absolute;
+}
